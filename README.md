@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/Shahriar-shaown/Shahriar-shaown/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
