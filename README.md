@@ -48,9 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-shaown&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shahriar-shaown&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
