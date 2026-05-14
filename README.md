@@ -66,8 +66,7 @@
 - 🎓 **2022** – Graduated and started working with frontEnd web technologies  
 - 💼 **2023-Present** – Associate Software Engineer at [Tulip-Tech Ltd.](https://www.linkedin.com/company/tuliptech/posts/?feedView=all)  
 - 🔧 Currently building advanced React/Next.js apps .
-- 🚀 **2025 Goal** – Exploring new libraries & also exploring backend  
-- 🎯 Future Vision – Become a Senior developer
+- 🎯 Future Vision – Become a better person & Senior developer
 
 ---
 
