@@ -38,19 +38,6 @@
   <img src="https://raw.githubusercontent.com/Shahriar-shaown/Shahriar-shaown/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahriar-shaown&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-shaown&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
----
-
 ### 🏷️ Badges
 
 <p align="center">
